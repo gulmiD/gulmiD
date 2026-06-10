@@ -2,7 +2,7 @@
   <img src="https://gifdb.com/images/high/monkey-at-laptop-pc-ou9bttu1rdt6mdxo.webp" alt="monke" width="250" />
 </div>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dipankar</h1>
+<h1 align="center">Yo! I'm Dipankar</h1>
 
 <div align="center">
  
