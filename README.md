@@ -65,9 +65,7 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/gulmiD">
-        <img title="My GitHub Streaks (Nepal Time)" alt="My GitHub Streaks" src="https://streak-stats.demolab.com?user=gulmiD&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0&locale=en&date_format=%5BY%5D%20M%20j&timezone=Asia/Kathmandu"/>
-    </a>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gulmiD&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0&locale=en&date_format=%5BY%5D%20M%20j&timezone=Asia/Kathmandu&mode=weekly"/>
 </p>
 
 ## My Github Stats
