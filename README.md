@@ -71,12 +71,8 @@
 ## My Github Stats
 
   <br/>
-  <div align="center">
-  <img src="https://raw.githubusercontent.com/gulmiD/gulmiD/ghpulse-output/terminal.svg#gh-dark-mode-only" alt="gulmiD's GitHub Universe (Dark Mode)" />
-  <img src="https://raw.githubusercontent.com/gulmiD/gulmiD/ghpulse-output/terminal-light.svg#gh-light-mode-only" alt="gulmiD's GitHub Universe (Light Mode)" />
-</div>
-    <!-- <a href="https://github.com/gulmiD"><img alt="Dipankar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gulmiD&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/gulmiD"><img alt="Dipankar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulmiD&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
+   <a href="https://github.com/gulmiD"><img alt="Dipankar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gulmiD&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/gulmiD"><img alt="Dipankar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulmiD&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
