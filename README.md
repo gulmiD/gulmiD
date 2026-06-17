@@ -65,7 +65,7 @@
 <br/>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gulmiD&theme=black-ice&hide_border=true&timezone=Asia/Kathmandu&v=20260615" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gulmiD&theme=black-ice&hide_border=true&timezone=Asia/Kathmandu&v={{DATE}}" />
 </p>
 
 ## My Github Stats
