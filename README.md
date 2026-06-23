@@ -1,10 +1,13 @@
 <div align="center">
-  <img src="https://gifdb.com/images/high/monkey-at-laptop-pc-ou9bttu1rdt6mdxo.webp" alt="coding-monkey" width="180" />
   <h1>sup, i'm gulmi 🤝</h1>
 </div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&width=600&center=true&vCenter=true&lines=Presales+Engineer;Developer+for+Fun;Cloud+Enthusiast;" alt="Typing SVG" />
+</div>
+
+<div>
+   <img src="https://gifdb.com/images/high/monkey-at-laptop-pc-ou9bttu1rdt6mdxo.webp" alt="coding-monkey" width="180" />
 </div>
 
 ---
