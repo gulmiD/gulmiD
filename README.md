@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&width=600&center=true&vCenter=true&lines=Presales+Engineer;Developer+for+Fun;Cloud+Enthusiast;" alt="Typing SVG" />
 </div>
 
-<div>
+<div align = "center">
    <img src="https://gifdb.com/images/high/monkey-at-laptop-pc-ou9bttu1rdt6mdxo.webp" alt="coding-monkey" width="180" />
 </div>
 
@@ -14,7 +14,7 @@
 
 ### TL;DR
 
-Presales Engineer translating corporate requirements into actual working architecture. Basically bridging the gap between business yapping and dev cooking type shi.
+Presales Engineer, translating corporate requirements into actual working architecture. Basically bridging the gap between business yapping and dev cooking type shi.
 
 ---
 
