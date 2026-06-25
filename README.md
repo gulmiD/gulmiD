@@ -51,8 +51,7 @@ Presales Engineer, translating corporate requirements into actual working archit
 <div align="center">
   <img
     src="https://streak-stats.demolab.com?user=gulmiD&theme=github-dark-blue&hide_border=true&timezone=Asia/Kathmandu"
-    alt="GitHub Streak Stats"
-  />
+    alt="GitHub Streak Stats"/>
 </div>
 
 ---
