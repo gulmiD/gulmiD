@@ -71,16 +71,7 @@ Presales Engineer, translating corporate requirements into actual working archit
 
 ---
 
-### Profile Activity
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=gulmiD&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://github.com/gulmiD?tab=followers">
-    <img src="https://img.shields.io/github/followers/gulmiD?label=Followers&style=social" alt="GitHub Followers" />
-  </a>
-</div>
-
----
+### Random Lines
 
 <div align="center">
   <h4>"yap during the day, build during the night fr."</h4>
