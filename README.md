@@ -1,5 +1,6 @@
 <div align="center">
-  <h1>sup, i'm gulmi 🤝</h1>
+  <h1>sup, i'm Dipankar 🤝</h1>
+  <h3>you can call me Gulmi</h3>
 </div>
 
 <div align="center">
@@ -48,11 +49,13 @@ Presales Engineer, translating corporate requirements into actual working archit
   </a>
 </div>
 
-<div align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=gulmiD&theme=github-dark-blue&hide_border=true&timezone=Asia/Kathmandu"
-    alt="GitHub Streak Stats"/>
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=gulmiD&theme=dark&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=gulmiD&theme=default&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gulmiD&theme=default&hide_border=true" alt="GitHub Streak Stats" />
+  </picture>
+</p>
 
 ---
 
