@@ -1,6 +1,6 @@
 <div align="center">
   <h1>sup, i'm Dipankar 🤝</h1>
-  <h3>you can call me Gulmi</h3>
+  <h3>you can call me Gulmi btw</h3>
 </div>
 
 <div align="center">
@@ -15,7 +15,7 @@
 
 ### TL;DR
 
-Presales Engineer, translating corporate requirements into actual working architecture. Basically bridging the gap between business yapping and dev cooking fr.
+Presales Engineer, translating corporate requirements into actual working architecture. Basically bridging the gap between business yapping and dev cooking on sum nonchalant shi.
 
 ---
 
@@ -74,5 +74,5 @@ Presales Engineer, translating corporate requirements into actual working archit
 ### Random Lines
 
 <div align="center">
-  <h4>"yap during the day, build during the night fr."</h4>
+  <h4>"yap during the day, build during the night."</h4>
 </div>
