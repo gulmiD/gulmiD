@@ -1,7 +1,7 @@
 <div align="center">
   <h1>sup, i'm Dipankar 🤝</h1>
   <h3>you can call me Gulmi</h3>
-  <h4>(im not from Gulmi tho</h4>
+  <h4>(im not from Gulmi tho)</h4>
 </div>
 
 <div align="center">
