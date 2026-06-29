@@ -52,9 +52,9 @@ Presales Engineer, translating corporate requirements into actual working archit
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=gulmiD&theme=dark&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=gulmiD&theme=default&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gulmiD&theme=default&hide_border=true" alt="GitHub Streak Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=gulmiD&theme=dark&hide_border=true&timezone=Asia/Kathmandu" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=gulmiD&theme=default&hide_border=true&timezone=Asia/Kathmandu" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gulmiD&theme=default&hide_border=true&timezone=Asia/Kathmandu" alt="GitHub Streak Stats" />
   </picture>
 </p>
 
