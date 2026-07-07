@@ -48,11 +48,13 @@ Presales Engineer, translating corporate requirements into actual working archit
   <img
     height="180"
     src="https://github-readme-stats.vercel.app/api?username=gulmiD&show_icons=true&theme=github_dark&hide_border=true"
+    alt="GitHub Stats"
   />
 
   <img
     height="180"
     src="https://github-readme-streak-stats.herokuapp.com/?user=gulmiD&theme=github-dark&hide_border=true"
+    alt="GitHub Streak"
   />
 
 </div>
