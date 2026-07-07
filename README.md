@@ -45,29 +45,15 @@ Presales Engineer, translating corporate requirements into actual working archit
 
 <div align="center">
 
-  <!-- Total Commits (This URL does NOT work because GitHub API doesn't expose it) -->
-  <a href="https://github.com/gulmiD">
-    <img
-      src="https://img.shields.io/badge/dynamic/json?color=0d1117&labelColor=0d1117&label=Total%20Commits&query=$.user.contributionsCollection.totalCommitContributions&url=https://api.github.com/users/gulmiD&style=flat-square"
-      alt="Total Commits"
-    />
-  </a>
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=gulmiD&show_icons=true&theme=github_dark&hide_border=true"
+  />
 
-  <!-- Current Streak (This also does NOT work because streak-stats is not JSON) -->
-  <a href="https://github.com/gulmiD">
-    <img
-      src="https://img.shields.io/badge/dynamic/json?color=0d1117&labelColor=0d1117&label=Current%20Streak&query=$.current_streak&url=https://streak-stats.demolab.com/?user=gulmiD&type=json&style=flat-square"
-      alt="Current Streak"
-    />
-  </a>
-
-  <!-- Longest Streak (Also invalid) -->
-  <a href="https://github.com/gulmiD">
-    <img
-      src="https://img.shields.io/badge/dynamic/json?color=0d1117&labelColor=0d1117&label=Longest%20Streak&query=$.longest_streak&url=https://streak-stats.demolab.com/?user=gulmiD&type=json&style=flat-square"
-      alt="Longest Streak"
-    />
-  </a>
+  <img
+    height="180"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=gulmiD&theme=github-dark&hide_border=true"
+  />
 
 </div>
 
