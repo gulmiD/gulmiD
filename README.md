@@ -45,32 +45,28 @@ Presales Engineer, translating corporate requirements into actual working archit
 
 <div align="center">
 
+  <!-- Total Commits (This URL does NOT work because GitHub API doesn't expose it) -->
   <a href="https://github.com/gulmiD">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/gulmiD&query=$.public_repos&label=Repositories&style=for-the-badge&color=181717" />
+    <img
+      src="https://img.shields.io/badge/dynamic/json?color=0d1117&labelColor=0d1117&label=Total%20Commits&query=$.user.contributionsCollection.totalCommitContributions&url=https://api.github.com/users/gulmiD&style=flat-square"
+      alt="Total Commits"
+    />
   </a>
 
-  <a href="https://github.com/gulmiD?tab=followers">
-    <img src="https://img.shields.io/github/followers/gulmiD?style=for-the-badge&label=Followers" />
-  </a>
-
+  <!-- Current Streak (This also does NOT work because streak-stats is not JSON) -->
   <a href="https://github.com/gulmiD">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/gulmiD&query=$.following&label=Following&style=for-the-badge&color=181717" />
+    <img
+      src="https://img.shields.io/badge/dynamic/json?color=0d1117&labelColor=0d1117&label=Current%20Streak&query=$.current_streak&url=https://streak-stats.demolab.com/?user=gulmiD&type=json&style=flat-square"
+      alt="Current Streak"
+    />
   </a>
 
-  <a href="https://github.com/gulmiD?tab=gists">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/gulmiD&query=$.public_gists&label=Public%20Gists&style=for-the-badge&color=181717" />
-  </a>
-
+  <!-- Longest Streak (Also invalid) -->
   <a href="https://github.com/gulmiD">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/gulmiD&query=$.type&label=Account%20Type&style=for-the-badge&color=181717" />
-  </a>
-
-  <a href="https://github.com/gulmiD">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/gulmiD&query=$.id&label=GitHub%20ID&style=for-the-badge&color=181717" />
-  </a>
-
-  <a href="https://github.com/gulmiD">
-    <img src="https://komarev.com/ghpvc/?username=gulmiD&style=for-the-badge&label=Profile%20Views" />
+    <img
+      src="https://img.shields.io/badge/dynamic/json?color=0d1117&labelColor=0d1117&label=Longest%20Streak&query=$.longest_streak&url=https://streak-stats.demolab.com/?user=gulmiD&type=json&style=flat-square"
+      alt="Longest Streak"
+    />
   </a>
 
 </div>
