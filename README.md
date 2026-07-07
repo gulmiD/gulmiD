@@ -53,7 +53,7 @@ Presales Engineer, translating corporate requirements into actual working archit
 
   <img
     height="180"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=gulmiD&theme=github-dark&hide_border=true"
+    src="https://streak-stats.demolab.com?user=gulmiD&theme=github-dark&hide_border=true"
     alt="GitHub Streak"
   />
 
