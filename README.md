@@ -43,37 +43,35 @@ Presales Engineer, translating corporate requirements into actual working archit
 
 ### GitHub Analytics
 
-<h2 align="center">GitHub Analytics</h2>
-
 <div align="center">
 
-<a href="https://github.com/gulmiD">
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/gulmiD&query=$.public_repos&label=Repositories&style=for-the-badge&color=181717">
-</a>
+  <a href="https://github.com/gulmiD">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/gulmiD&query=$.public_repos&label=Repositories&style=for-the-badge&color=181717" />
+  </a>
 
-<a href="https://github.com/gulmiD?tab=followers">
-<img src="https://img.shields.io/github/followers/gulmiD?style=for-the-badge&label=Followers">
-</a>
+  <a href="https://github.com/gulmiD?tab=followers">
+    <img src="https://img.shields.io/github/followers/gulmiD?style=for-the-badge&label=Followers" />
+  </a>
 
-<a href="https://github.com/gulmiD">
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/gulmiD&query=$.following&label=Following&style=for-the-badge&color=181717">
-</a>
+  <a href="https://github.com/gulmiD">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/gulmiD&query=$.following&label=Following&style=for-the-badge&color=181717" />
+  </a>
 
-<a href="https://github.com/gulmiD?tab=gists">
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/gulmiD&query=$.public_gists&label=Public%20Gists&style=for-the-badge&color=181717">
-</a>
+  <a href="https://github.com/gulmiD?tab=gists">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/gulmiD&query=$.public_gists&label=Public%20Gists&style=for-the-badge&color=181717" />
+  </a>
 
-<a href="https://github.com/gulmiD">
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/gulmiD&query=$.type&label=Account%20Type&style=for-the-badge&color=181717">
-</a>
+  <a href="https://github.com/gulmiD">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/gulmiD&query=$.type&label=Account%20Type&style=for-the-badge&color=181717" />
+  </a>
 
-<a href="https://github.com/gulmiD">
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/gulmiD&query=$.id&label=GitHub%20ID&style=for-the-badge&color=181717">
-</a>
+  <a href="https://github.com/gulmiD">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/gulmiD&query=$.id&label=GitHub%20ID&style=for-the-badge&color=181717" />
+  </a>
 
-<a href="https://github.com/gulmiD">
-<img src="https://komarev.com/ghpvc/?username=gulmiD&style=for-the-badge&label=Profile%20Views">
-</a>
+  <a href="https://github.com/gulmiD">
+    <img src="https://komarev.com/ghpvc/?username=gulmiD&style=for-the-badge&label=Profile%20Views" />
+  </a>
 
 </div>
 
