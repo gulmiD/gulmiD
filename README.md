@@ -44,7 +44,6 @@ Presales Engineer, translating corporate requirements into actual working archit
 ### GitHub Analytics
 
 <div align="center">
-
   <img
     height="180"
     src="https://github-readme-stats.vercel.app/api?username=gulmiD&show_icons=true&theme=github_dark&hide_border=true"
@@ -56,7 +55,6 @@ Presales Engineer, translating corporate requirements into actual working archit
     src="https://streak-stats.demolab.com?user=gulmiD&theme=github-dark&hide_border=true"
     alt="GitHub Streak"
   />
-
 </div>
 
 ---
