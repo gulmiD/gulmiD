@@ -54,7 +54,7 @@ Presales Engineer, translating corporate requirements into actual working archit
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gulmiD&theme=github_dark" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gulmiD&theme=github_dark&utcOffset=5.75" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gulmiD&theme=github_dark&utcOffset=5.45" width="49%" />
 </div>
 
 ---
