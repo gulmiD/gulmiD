@@ -34,7 +34,8 @@ Presales Engineer, translating corporate requirements into actual working archit
 
 ### Current Side Quests
 
-- Cooking up random web apps just for the plot
+- Building a business for the plot 
+- Cooking up random web apps for time pass
 - Leveling up my Cloud Architecture & System Design
 - Down to collab on impactful Open Source projects
 - Available for presales consulting & technical solutioning (depends on your vibe ykwim)
