@@ -45,17 +45,32 @@ Presales Engineer, translating corporate requirements into actual working archit
 ### GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gulmiD&theme=github_dark" width="100%" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gulmiD&theme=github_dark"
+    width="100%"
+  />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gulmiD&theme=github_dark" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gulmiD&theme=github_dark" width="49%" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gulmiD&theme=github_dark"
+    width="49%"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gulmiD&theme=github_dark"
+    width="49%"
+  />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gulmiD&theme=github_dark" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gulmiD&theme=github_dark&utcOffset=5.45" width="49%" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gulmiD&theme=github_dark"
+    width="49%"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gulmiD&theme=github_dark&utcOffset=5.45"
+    width="49%"
+  />
 </div>
 
 ---
