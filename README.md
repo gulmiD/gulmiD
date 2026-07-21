@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&width=600&center=true&vCenter=true&lines=Presales+Engineer;Developer+for+Fun;Cloud+Enthusiast;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&width=600&center=true&vCenter=true&lines=Presales+Engineer;Creator+for+fun;Cybersecurity+Graduate;" alt="Typing SVG" />
 </div>
 
 <div align = "center">
